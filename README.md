@@ -1,4 +1,10 @@
 # Tshirt-Store
+LIVE LINK:
+http://reacttshirtstore.herokuapp.com/
+
+ADMIN LOGIN:
+Username-1@2.com
+Pswd-12345
 
 On line 22 of app.js add your mongoose database link.
 
